@@ -1,0 +1,6 @@
+2025-05-22 08:27:52 - "{\"objty\":\"PORD\",\"methd\":\"createPOItem\",\"items\":[{\"ebeln\":\"3100001010\",\"ebelp\":10,\"loekz\":\"\",\"aedat\":\"2025-05-22\",\"matnr\":\"000000000000300185\",\"ematn\":\"000000000000300185\",\"txz01\":\"M.S. SHEET 1.6 mm size 8\" x 4\"\",\"bukrs\":\"2000\",\"werks\":\"2010\",\"lgort\":\"\",\"matkl\":\"1070\",\"ktmng\":0,\"menge\":81.600,\"meins\":\"KG\",\"netpr\":71.50,\"peinh\":1,\"bprme\":\"KG\",\"uebto\":0,\"netwr\":5834.40,\"brtwr\":5834.40,\"pstyp\":\"0\",\"knttp\":\"\",\"lmein\":\"KG\",\"bstyp\":\"F\",\"bsart\":\"ZCON\",\"statu\":\"9\",\"lifnr\":\"0000200002\",\"name1\":\"A.N.KACHHI & SONS\",\"zterm\":\"1010\",\"ekorg\":\"2000\",\"ekgrp\":\"253\",\"waers\":\"INR\",\"bedat\":\"2025-05-22\",\"kdatb\":\"0000-00-00\",\"kdate\":\"0000-00-00\",\"elikz\":\"\",\"emlif\":\"\",\"lblkz\":\"\",\"frgke\":\"B\"}]}"
+[22-May-2025 08:27:52 UTC] PHP Warning:  Attempt to read property "methd" on string in /home1/agiletwn/public_html/scp/api/scp_sync.php on line 34
+[22-May-2025 08:27:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, second array member is not a valid method in /home1/agiletwn/public_html/scp/api/scp_sync.php:34
+Stack trace:
+#0 {main}
+  thrown in /home1/agiletwn/public_html/scp/api/scp_sync.php on line 34

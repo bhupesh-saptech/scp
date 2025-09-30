@@ -1,0 +1,7 @@
+[27-Mar-2025 19:55:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1 in /home1/agiletwn/public_html/scp/src/Model/Util.php:27
+Stack trace:
+#0 /home1/agiletwn/public_html/scp/src/Model/Util.php(27): PDO->prepare('select a.* from...')
+#1 /home1/agiletwn/public_html/scp/incld/top_menu.php(36): Model\Util->execQuery('select a.* from...', Array)
+#2 /home1/agiletwn/public_html/scp/buyer/index.php(4): include('/home1/agiletwn...')
+#3 {main}
+  thrown in /home1/agiletwn/public_html/scp/src/Model/Util.php on line 27

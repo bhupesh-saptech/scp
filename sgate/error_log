@@ -1,0 +1,7 @@
+2025-05-07 14:27:08 - {"user_id":"1010_sgate","role_nm":"sgate","home_pg":"..\/sgate\/index.php","user_nm":"Security Guard","user_ty":"user","supp_id":"1010","page_id":"https:\/\/agilesaptech.com\/scp\/sgate\/index.php","from_dt":"2025-04-22","upto_dt":"2025-05-07","pref_id":"https:\/\/agilesaptech.com\/scp\/sgate\/index.php"}
+[07-May-2025 14:27:08 Asia/Kolkata] PHP Warning:  Undefined variable $plnt in /home1/agiletwn/public_html/scp/incld/top_menu.php on line 49
+[07-May-2025 14:27:08 Asia/Kolkata] PHP Warning:  Attempt to read property "objky" on null in /home1/agiletwn/public_html/scp/incld/top_menu.php on line 49
+[07-May-2025 14:27:08 Asia/Kolkata] PHP Warning:  Undefined variable $plnt in /home1/agiletwn/public_html/scp/incld/top_menu.php on line 50
+[07-May-2025 14:27:08 Asia/Kolkata] PHP Warning:  Attempt to read property "objky" on null in /home1/agiletwn/public_html/scp/incld/top_menu.php on line 50
+[07-May-2025 14:27:08 Asia/Kolkata] PHP Warning:  Undefined variable $plnt in /home1/agiletwn/public_html/scp/incld/top_menu.php on line 50
+[07-May-2025 14:27:08 Asia/Kolkata] PHP Warning:  Attempt to read property "objnm" on null in /home1/agiletwn/public_html/scp/incld/top_menu.php on line 50

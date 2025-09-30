@@ -1,0 +1,6 @@
+[20-May-2025 10:31:27 UTC] PHP Warning:  Undefined variable $role in /home1/agiletwn/public_html/scp/admin/form_user.php on line 79
+[20-May-2025 10:31:27 UTC] PHP Warning:  Attempt to read property "role_id" on null in /home1/agiletwn/public_html/scp/admin/form_user.php on line 79
+[20-May-2025 10:31:27 UTC] PHP Warning:  Undefined variable $role in /home1/agiletwn/public_html/scp/admin/form_user.php on line 79
+[20-May-2025 10:31:27 UTC] PHP Warning:  Attempt to read property "role_id" on null in /home1/agiletwn/public_html/scp/admin/form_user.php on line 79
+[20-May-2025 10:31:27 UTC] PHP Warning:  Undefined variable $role in /home1/agiletwn/public_html/scp/admin/form_user.php on line 79
+[20-May-2025 10:31:27 UTC] PHP Warning:  Attempt to read property "role_nm" on null in /home1/agiletwn/public_html/scp/admin/form_user.php on line 79

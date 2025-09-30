@@ -1,0 +1,9 @@
+<?php
+    include('../incld/verify.php');
+    include('../incld/header.php');
+    include('../buyer/top_menu.php');
+    include('../buyer/side_menu.php');
+    include('../buyer/dashboard.php');
+    include('../incld/jslib.php');
+    include('../incld/footer.php');
+?>

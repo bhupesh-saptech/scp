@@ -1,0 +1,28 @@
+{
+    "remotePath": "./public_html/scp",
+    "host": "ftp.agilesaptech.com",
+    "username": "agiletwn",
+    "password": "Agile74@$",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": true,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "interval": 1000,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".php, .js, .css, .html"
+        ],
+        "path": ""
+    }
+}
