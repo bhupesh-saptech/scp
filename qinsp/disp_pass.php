@@ -3,7 +3,7 @@
     include('../qinsp/check_auth.php');
     require '../incld/autoload.php';
     $cntr = new Contr\VehPassContr();
-    $conn = new Model\Conn();
+    $conn = new Model\Util();
     if(isset($_POST['submit'])) {
         $rqst = json_decode(json_encode($_POST));
         $rqst->user_id = $_SESSION['user_id'];
